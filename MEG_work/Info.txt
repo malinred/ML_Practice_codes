@@ -1,3 +1,0 @@
-1) What is MEG?
-   MEG (Magnetoencephalography) is a neuroimaging method which is used to track and record the magnetic fields produced by the brain during various activity. Since these magnetic signals are weak in nature,We    require powerful/sensitive sensors such as SQUIDs (Superconducting Quantum Interference Devices). These sensors are stored in a helmet like devices which is then used to record the magnetic fields produced    by the brain. Due to MEG signals being so weak, These systems or devices are usually stored or utilized within magnetically shielded room to avoid distortions from external magnetic noise (such as power       lines, cars etc).
-2) Tools that were used?
